@@ -3,7 +3,7 @@
 Este é um app simples feito com Python e Streamlit que remove o fundo de imagens automaticamente usando a biblioteca `rembg`.
 
 🔗 **Acesse o app aqui:**  
-👉 [Clique para abrir o app](https://removedor-de-fundo.streamlit.app)
+👉 [Clique para abrir o app] (https://removedor-de-fundo-dnzvrxvgjwvweobbduzjca.streamlit.app/)
 
 ## Como funciona
 
